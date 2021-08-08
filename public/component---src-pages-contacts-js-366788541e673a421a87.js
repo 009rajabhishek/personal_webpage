@@ -1,0 +1,2 @@
+(self.webpackChunkPMalLab=self.webpackChunkPMalLab||[]).push([[98],{4892:function(u,a,n){"use strict";n.r(a);n(7294);var e=n(6691),l=(n(5444),n(1496),n(5734));a.default=function(){return(0,l.tZ)(e.Z,null)}}}]);
+//# sourceMappingURL=component---src-pages-contacts-js-366788541e673a421a87.js.map
